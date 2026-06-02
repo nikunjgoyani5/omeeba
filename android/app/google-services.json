@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "502893707492",
+    "project_id": "omeebatestswvstk",
+    "storage_bucket": "omeebatestswvstk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502893707492:android:1ed6b1d0309c92f3472cf1",
+        "android_client_info": {
+          "package_name": "com.omeeba.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502893707492-oje3naj63kslnrnfa8205gercl6fq9lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49HcR40kkN73TIXVtY7qLJ0DpDXyeuIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502893707492-oje3naj63kslnrnfa8205gercl6fq9lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502893707492-bl3b74hboj8t76cg8td2l7ch8anokntu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swastik.omeebaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
